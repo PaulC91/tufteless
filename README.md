@@ -24,4 +24,4 @@ It currently defaults to the hex value `#fffff8` which is a light cream color.
 For a more detailed explanation of how to customize your blog using `tuftesque` see [this blogpost](http://livefreeordichotomize.com/2017/07/13/introducing-the-tuftesque-blogdown-theme/) on the subject. 
 
 
-... more docs to come.
+... more docs to come.# tufteless
